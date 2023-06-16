@@ -1,5 +1,9 @@
 # Meu Repositório de Estudo "Hello, World!"- Curso de Back-End na Cubos Academy
 
+Preview do projeto :D
+
+![preview](https://raw.githubusercontent.com/tiagosfneves/hello-world/main/assets/visaoCodigoTerminal.png)
+
 Este é o repositório do meu projeto de estudo de Back-End na Cubos Academy, com apoio do iFood. Aqui, compartilho o código e os recursos relacionados ao meu aprendizado nessa incrível jornada de programação.
 
 ## Sobre o Curso
@@ -51,6 +55,4 @@ Se tiver alguma dúvida, sugestão ou quiser saber mais sobre o meu projeto de e
 
 Agradeço a todos da Cubos Academy e do iFood pelo apoio e pela oportunidade de participar deste incrível curso de Back-End. Vamos continuar aprendendo e construindo juntos!
 
-Nos vemos por aí! Veja um preview do projeto :D
-
-![preview](https://raw.githubusercontent.com/tiagosfneves/hello-world/main/assets/visaoCodigoTerminal.png)
+Nos vemos por aí!
