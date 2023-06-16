@@ -46,7 +46,7 @@ Se tiver alguma dúvida, sugestão ou quiser saber mais sobre o meu projeto de e
 
 - LinkedIn: [Tiago S F Neves](https://www.linkedin.com/in/tiagosfneves)
 
-- Figma: [Tiago S F Neves](https://www.figma.com/tiagosfneves)
+- Figma: [Tiago S F Neves](https://www.figma.com/@tiagosfneves)
 
 - Instagram: [Criative Uniart](https://www.instagram.com/criativeuniart)
 
